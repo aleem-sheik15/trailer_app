@@ -225,7 +225,7 @@ nav {
         margin-bottom: 10px;
     }
 
-    label {
+    .navLinks>label {
         display: none;
     }
     .navLinks>li>a{
