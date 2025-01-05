@@ -45,3 +45,19 @@
 .playbtn>i:last-child{
     left: 58%;
 }
+@media (max-width:800px) {
+    .video_container>video{
+        height: 260px;
+    }
+    .playbtn{
+        top: 36%;
+        height: 40px;
+        width: 40px;
+        font-size: 18px;
+    }
+}
+@media (max-width:600px) {
+    .video_container>video{
+        height: 160px;
+    }
+}
