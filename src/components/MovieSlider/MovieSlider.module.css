@@ -55,7 +55,7 @@
 }
 @media (max-width:400px) {
     .container{
-        height: 250px;
+        height: 280px;
     }
     .container>h1{
         font-size: var(--font-md);
