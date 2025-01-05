@@ -25,12 +25,13 @@
 
 @media (max-width:600px) {
     .container {
-        height: calc(100vh - 350px);
+    margin-bottom: 10px;
+    height: calc(100vh - 450px);
     }
 }
 
 @media (max-width:400px) {
     .container {
-        height: calc(100vh - 420px);
+        height: calc(100vh - 500px);
     }
 }
