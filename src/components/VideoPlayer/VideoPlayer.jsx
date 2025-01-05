@@ -25,11 +25,11 @@ const VideoPlayer = () => {
             vidRef.current.controls = false;
         }
     }
-    const forward=()=>{
-        vidRef.current.currentTime+=5
+    const forward = () => {
+        vidRef.current.currentTime += 5
     }
-    const backward=()=>{
-        vidRef.current.currentTime-=5
+    const backward = () => {
+        vidRef.current.currentTime -= 5
     }
     return (
         <div className={style.container}>
@@ -38,7 +38,9 @@ const VideoPlayer = () => {
                     if (Number(trailerId) === item.id) {
                         return (
                             <div key={i} className={style.video_container}>
-                                <video src={item.trailer} ref={vidRef} onClick={start} />
+                                <video ref={vidRef} onClick={start}>
+                                    <source src={item.trailer} />
+                                </video>
                                 <div className={play ? `${style.playbtn} ${style.animate}` : `${style.playbtn}`}>
                                     <i className="fa-solid fa-backward" onClick={backward}></i>
                                     <i className={!play ? 'fa-solid fa-play' : 'fa-solid fa-pause'} onClick={start}></i>
