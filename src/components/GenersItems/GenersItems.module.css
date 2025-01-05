@@ -1,0 +1,35 @@
+.gener_box {
+    width: 84%;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 50px auto;
+}
+
+.gener_box>div {
+    border: 1px solid;
+    padding: 4px 8px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.outline {
+    color: var(--bg-color);
+}
+@media (max-width:500px) {
+    .gener_box{
+        width: 94%;
+        margin: 20px auto;
+        gap: 9px;
+    }
+    .gener_box>div{
+        padding: 2px 4px;
+        font-size: 12px;
+    }
+}
+@media (max-width:400px) {
+    .gener_box>div{
+        padding: 2px 4px;
+        font-size: 12px;
+    }
+}

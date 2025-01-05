@@ -1,0 +1,36 @@
+.container {
+    height: calc(100vh - 150px);
+    overflow: hidden;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+@media (max-width:1200px) {
+    .container {
+        height: calc(100vh - 200px);
+    }
+}
+
+@media (max-width:1080px) {
+    .container {
+        height: calc(100vh - 250px);
+    }
+}
+
+@media (max-width:800px) {
+    .container {
+        height: calc(100vh - 300px);
+    }
+}
+
+@media (max-width:600px) {
+    .container {
+        height: calc(100vh - 350px);
+    }
+}
+
+@media (max-width:400px) {
+    .container {
+        height: calc(100vh - 420px);
+    }
+}

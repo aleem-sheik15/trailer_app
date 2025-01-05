@@ -1,0 +1,33 @@
+.container{
+    width: 85%;
+    margin: 30px auto;
+}
+.yearlist{
+    display: flex;
+    gap: 23px;
+    margin-bottom: 15px;
+}
+.yearlist>div{
+    border: 1px solid;
+    border-radius: 4px;
+    padding: 1px 3px;
+}
+.outline{
+    color: var(--bg-color);
+}
+.container>.container_cards{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(200px,1fr));
+    gap: 20px;
+}
+@media (max-width:400px) {
+    .container>.container_cards{
+        grid-template-columns: repeat(auto-fit,minmax(100px,1fr));
+    }
+    .yearlist>div{
+        font-size: 12px;
+    }
+    .yearlist{
+        gap: 16px;
+    }
+}

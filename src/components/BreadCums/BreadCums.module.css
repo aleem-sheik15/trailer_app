@@ -1,0 +1,11 @@
+.container>p{
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+.container>p>i{
+    font-size: 13px;
+}
+.container>p>span{
+    cursor: pointer;
+}
