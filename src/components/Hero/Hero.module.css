@@ -26,7 +26,7 @@
 @media (max-width:600px) {
     .container {
     margin-bottom: 10px;
-    height: calc(100vh - 450px);
+    height: calc(100vh - 550px);
     }
 }
 
