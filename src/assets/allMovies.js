@@ -1,3 +1,8 @@
+import video1 from './trailers/kalki.mp4'
+
+
+
+
 const allMovies = [
     {
         id: 1,
@@ -10,7 +15,7 @@ const allMovies = [
         heroinName: "Deepika Padukone",
         releaseYear: 2024,
         Genre: "Action, Sci-Fi, Thriller",
-        trailer: '../../../src/assets/trailers/kalki.mp4'
+        trailer: video1
     },
     {
         id: 2,
