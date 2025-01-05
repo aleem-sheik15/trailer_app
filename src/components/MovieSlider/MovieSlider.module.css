@@ -55,9 +55,12 @@
 }
 @media (max-width:400px) {
     .container{
-        height: calc(100vh - 450px);
+        height: 250px;
     }
     .container>h1{
         font-size: var(--font-md);
+    }
+    .scroll>a>img{
+        width: 100px;
     }
 }
