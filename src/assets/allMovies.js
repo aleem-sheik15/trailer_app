@@ -10,7 +10,7 @@ const allMovies = [
         heroinName: "Deepika Padukone",
         releaseYear: 2024,
         Genre: "Action, Sci-Fi, Thriller",
-        trailer: './trailers/kalki.mp4'
+        trailer: '../../../src/assets/trailers/kalki.mp4'
     },
     {
         id: 2,
@@ -23,7 +23,7 @@ const allMovies = [
         heroinName: "Amritha Aiyer",
         releaseYear: 2024,
         Genre: "Action, Adventure, Fantasy",
-        trailer: '../../src/assets/trailers/hanuman.mp4'
+        trailer: '../../../src/assets/trailers/hanuman.mp4'
     },
     {
         id: 3,
@@ -36,7 +36,7 @@ const allMovies = [
         heroinName: "Sreeleela",
         releaseYear: 2024,
         Genre: "Action, Drama, Family",
-        trailer: './../src/assets/trailers/guntur kaaram.mp4'
+        trailer: '../../../src/assets/trailers/guntur kaaram.mp4'
     },
     {
         id: 4,
@@ -49,7 +49,7 @@ const allMovies = [
         heroinName: "Anupama Paramesvari",
         releaseYear: 2024,
         Genre: "Comedy, Drama",
-        trailer: './../src/assets/trailers/dj title.mp4'
+        trailer: '../../../src/assets/trailers/dj title.mp4'
     },
     {
         id: 5,
@@ -62,7 +62,7 @@ const allMovies = [
         heroinName: "Mirnaa",
         releaseYear: 2024,
         Genre: "Action, Adventure, Drama",
-        trailer: './../src/assets/trailers/naa saami ranga.mp4'
+        trailer: '../../../src/assets/trailers/naa saami ranga.mp4'
     },
     {
         id: 6,
@@ -74,7 +74,7 @@ const allMovies = [
         heroinName: "Shraddha Srinath",
         releaseYear: 2024,
         Genre: "Action, Drama",
-        trailer: './../src/assets/trailers/saindav.mp4'
+        trailer: '../../../src/assets/trailers/saindav.mp4'
     },
     {
         id: 7,
@@ -86,7 +86,7 @@ const allMovies = [
         heroinName: "Chandini Chowdary",
         releaseYear: 2024,
         Genre: "Adventure, Drama, Thriller",
-        trailer: './../src/assets/trailers/gaami.mp4'
+        trailer: '../../../src/assets/trailers/gaami.mp4'
     },
     {
         id: 8,
@@ -98,7 +98,7 @@ const allMovies = [
         heroinName: "Varsha Bollamma",
         releaseYear: 2024,
         Genre: "Adventure, Fantasy, Thriller",
-        trailer: './../src/assets/trailers/ooru peru bhairavakuna.mp4'
+        trailer: '../../../src/assets/trailers/ooru peru bhairavakuna.mp4'
     },
     {
         id: 9,
@@ -110,7 +110,7 @@ const allMovies = [
         heroinName: "Malvika Sharma",
         releaseYear: 2024,
         Genre: "Action, Drama",
-        trailer: './../src/assets/trailers/bhimaa.mp4'
+        trailer: '../../../src/assets/trailers/bhimaa.mp4'
     },
     {
         id: 10,
@@ -122,7 +122,7 @@ const allMovies = [
         heroinName: "Mrunal Thakur",
         releaseYear: 2024,
         Genre: "Action, Comedy, Family",
-        trailer: './../src/assets/trailers/family star.mp4'
+        trailer: '../../../src/assets/trailers/family star.mp4'
     },
     {
         id: 11,
@@ -134,7 +134,7 @@ const allMovies = [
         heroinName: "Neha Shetty",
         releaseYear: 2024,
         Genre: "Action, Crime, Drama",
-        trailer: './../src/assets/trailers/gangs of godavari.mp4'
+        trailer: '../../../src/assets/trailers/gangs of godavari.mp4'
     },
     {
         id: 12,
@@ -146,7 +146,7 @@ const allMovies = [
         heroinName: "Vaishnavi Chaitanya",
         releaseYear: 2024,
         Genre: "Horror, Romantic, Thriller",
-        trailer: './../src/assets/trailers/love me.mp4'
+        trailer: '../../../src/assets/trailers/love me.mp4'
     },
     {
         id: 13,
@@ -158,7 +158,7 @@ const allMovies = [
         heroinName: "Ananya Nagalla",
         releaseYear: 2024,
         Genre: "Comedy, Drama",
-        trailer: './../src/assets/trailers/srikakulam.mp4'
+        trailer: '../../../src/assets/trailers/srikakulam.mp4'
     },
     {
         id: 14,
@@ -170,7 +170,7 @@ const allMovies = [
         heroinName: "Amritha Aiyer",
         releaseYear: 2024,
         Genre: "Action, Romance, Drama",
-        trailer: './../src/assets/trailers/bachalla malli.mp4'
+        trailer: '../../../src/assets/trailers/bachalla malli.mp4'
     },
     {
         id: 15,
@@ -182,7 +182,7 @@ const allMovies = [
         heroinName: "Rashmika Mandana",
         releaseYear: 2024,
         Genre: "Action, Crime, Drama, Thriller",
-        trailer: './../src/assets/trailers/puspha 2.mp4'
+        trailer: '../../../src/assets/trailers/puspha 2.mp4'
     },
     {
         id: 16,
@@ -194,7 +194,7 @@ const allMovies = [
         heroinName: "Priya Bhavani Shankar",
         releaseYear: 2024,
         Genre: "Action, Crime, Comedy, Thriller",
-        trailer: './../src/assets/trailers/zebra.mp4'
+        trailer: '../../../src/assets/trailers/zebra.mp4'
     },
     {
         id: 17,
@@ -206,7 +206,7 @@ const allMovies = [
         heroinName: "Ananya Nagalla",
         releaseYear: 2024,
         Genre: "Action, Crime, Thriller",
-        trailer: './../src/assets/trailers/pottel.mp4'
+        trailer: '../../../src/assets/trailers/pottel.mp4'
     },
     {
         id: 18,
@@ -218,7 +218,7 @@ const allMovies = [
         heroinName: "Sai Pallavi",
         releaseYear: 2024,
         Genre: "Action, Biography, Drama, War",
-        trailer: './../src/assets/trailers/amaran.mp4'
+        trailer: '../../../src/assets/trailers/amaran.mp4'
     },
     {
         id: 19,
@@ -230,7 +230,7 @@ const allMovies = [
         heroinName: "Nayan Sarika",
         releaseYear: 2024,
         Genre: "Drama, Suspense",
-        trailer: './../src/assets/trailers/ka.mp4'
+        trailer: '../../../src/assets/trailers/ka.mp4'
     },
     {
         id: 20,
@@ -242,7 +242,7 @@ const allMovies = [
         heroinName: "Meenakshi Chaudhary",
         releaseYear: 2024,
         Genre: "Crime, Thriller",
-        trailer: './../src/assets/trailers/Lucky Baskhar.mp4'
+        trailer: '../../../src/assets/trailers/Lucky Baskhar.mp4'
     },
     {
         id: 21,
@@ -254,7 +254,7 @@ const allMovies = [
         heroinName: "Janhvi Kapoor",
         releaseYear: 2024,
         Genre: "Action, Drama, Thriller",
-        trailer: './../src/assets/trailers/devara.mp4'
+        trailer: '../../../src/assets/trailers/devara.mp4'
     },
     {
         id: 22,
@@ -266,7 +266,7 @@ const allMovies = [
         heroinName: "Ritu Varma,Meera Jasmine",
         releaseYear: 2024,
         Genre: "Comedy, Thriller",
-        trailer: './../src/assets/trailers/swag.mp4'
+        trailer: '../../../src/assets/trailers/swag.mp4'
     },
     {
         id: 23,
@@ -278,7 +278,7 @@ const allMovies = [
         heroinName: "Priya Mohan",
         releaseYear: 2024,
         Genre: "Action, Thriller",
-        trailer: './../src/assets/trailers/saripodha sanivaram.mp4'
+        trailer: '../../../src/assets/trailers/saripodha sanivaram.mp4'
     },
     {
         id: 24,
@@ -290,7 +290,7 @@ const allMovies = [
         heroinName: "Shruti Haasan,Honey Rose",
         releaseYear: 2023,
         Genre: "Action, Drama",
-        trailer: './../src/assets/trailers/Veera Simha Reddy.mp4'
+        trailer: '../../../src/assets/trailers/Veera Simha Reddy.mp4'
     },
     {
         id: 25,
@@ -302,7 +302,7 @@ const allMovies = [
         heroinName: "Shruti Haasan,Catherine Tresa",
         releaseYear: 2023,
         Genre: "Action, Drama",
-        trailer: './../src/assets/trailers/Waltair Veerayya.mp4'
+        trailer: '../../../src/assets/trailers/Waltair Veerayya.mp4'
     },
     {
         id: 26,
@@ -314,7 +314,7 @@ const allMovies = [
         heroinName: "Divyansha Kaushik",
         releaseYear: 2023,
         Genre: "Action, Drama, Thriller",
-        trailer: './../src/assets/trailers/Michael.mp4'
+        trailer: '../../../src/assets/trailers/Michael.mp4'
     },
     {
         id: 27,
@@ -326,7 +326,7 @@ const allMovies = [
         heroinName: "Tina Shilparaj",
         releaseYear: 2023,
         Genre: "Drama, Family",
-        trailer: './../src/assets/trailers/Writer Padmabhushan.mp4'
+        trailer: '../../../src/assets/trailers/Writer Padmabhushan.mp4'
     },
     {
         id: 28,
@@ -338,7 +338,7 @@ const allMovies = [
         heroinName: "Samyuktha",
         releaseYear: 2023,
         Genre: "Action, Comedy, Drama",
-        trailer: './../src/assets/trailers/sir.mp4'
+        trailer: '../../../src/assets/trailers/sir.mp4'
     },
     {
         id: 29,
@@ -350,7 +350,7 @@ const allMovies = [
         heroinName: "Kavya Kalyanram",
         releaseYear: 2023,
         Genre: "Drama",
-        trailer: './../src/assets/trailers/Balagam.mp4'
+        trailer: '../../../src/assets/trailers/Balagam.mp4'
     },
     {
         id: 30,
@@ -362,7 +362,7 @@ const allMovies = [
         heroinName: "Keerthy Suresh",
         releaseYear: 2023,
         Genre: "Action, Adventure, Drama",
-        trailer: './../src/assets/trailers/Dasara.mp4'
+        trailer: '../../../src/assets/trailers/Dasara.mp4'
     },
     {
         id: 31,
@@ -374,7 +374,7 @@ const allMovies = [
         heroinName: "Samyuktha",
         releaseYear: 2023,
         Genre: "Action, Mystery, Thriller",
-        trailer: './../src/assets/trailers/Virupaksha.mp4'
+        trailer: '../../../src/assets/trailers/Virupaksha.mp4'
     },
     {
         id: 32,
@@ -386,7 +386,7 @@ const allMovies = [
         heroinName: "Mirnaa Menon",
         releaseYear: 2023,
         Genre: "Action, Thriller",
-        trailer: './../src/assets/trailers/Ugram.mp4'
+        trailer: '../../../src/assets/trailers/Ugram.mp4'
     },
     {
         id: 33,
@@ -398,7 +398,7 @@ const allMovies = [
         heroinName: "Saarya Laxman",
         releaseYear: 2023,
         Genre: "Comedy, Drama, Romance",
-        trailer: './../src/assets/trailers/Mem Famous.mp4'
+        trailer: '../../../src/assets/trailers/Mem Famous.mp4'
     },
     {
         id: 34,
@@ -410,7 +410,7 @@ const allMovies = [
         heroinName: "Kriti Sanon",
         releaseYear: 2023,
         Genre: "Action, Adventure, Drama, Fantasy",
-        trailer: './../src/assets/trailers/Adipurush.mp4'
+        trailer: '../../../src/assets/trailers/Adipurush.mp4'
     },
     {
         id: 35,
@@ -422,7 +422,7 @@ const allMovies = [
         heroinName: "Nupur Sanon",
         releaseYear: 2023,
         Genre: "Action, Biography, Crime, Drama, Thriller",
-        trailer: './../src/assets/trailers/tiger nageshwar rao.mp4'
+        trailer: '../../../src/assets/trailers/tiger nageshwar rao.mp4'
     },
     {
         id: 36,
@@ -434,7 +434,7 @@ const allMovies = [
         heroinName: "Shruti Haasan",
         releaseYear: 2023,
         Genre: "Action, Drama, Thriller",
-        trailer: './../src/assets/trailers/Salaar.mp4'
+        trailer: '../../../src/assets/trailers/Salaar.mp4'
     },
     {
         id: 37,
@@ -446,7 +446,7 @@ const allMovies = [
         heroinName: "Krithi Shetty",
         releaseYear: 2022,
         Genre: "Drama",
-        trailer: './../src/assets/trailers/Bangarraju.mp4'
+        trailer: '../../../src/assets/trailers/Bangarraju.mp4'
     },
     {
         id: 38,
@@ -458,7 +458,7 @@ const allMovies = [
         heroinName: "Dimple Hayathi",
         releaseYear: 2022,
         Genre: "Action, Comedy",
-        trailer: './../src/assets/trailers/Khiladi.mp4'
+        trailer: '../../../src/assets/trailers/Khiladi.mp4'
     },
     {
         id: 39,
@@ -470,7 +470,7 @@ const allMovies = [
         heroinName: "Nithya Menen,Samyuktha",
         releaseYear: 2022,
         Genre: "Action, Drama",
-        trailer: './../src/assets/trailers/Bheemla Nayak.mp4'
+        trailer: '../../../src/assets/trailers/Bheemla Nayak.mp4'
     },
     {
         id: 40,
@@ -482,7 +482,7 @@ const allMovies = [
         heroinName: "Pooja Hegde",
         releaseYear: 2022,
         Genre: "Romance, Fantasy, Drama",
-        trailer: './../src/assets/trailers/Radhe Shyam.mp4'
+        trailer: '../../../src/assets/trailers/Radhe Shyam.mp4'
     },
     {
         id: 41,
@@ -494,7 +494,7 @@ const allMovies = [
         heroinName: "Alia Bhatt,Olivia Morris",
         releaseYear: 2022,
         Genre: "Historical, Action, Drama",
-        trailer: './../src/assets/trailers/rrr.mp4'
+        trailer: '../../../src/assets/trailers/rrr.mp4'
     },
     {
         id: 42,
@@ -506,7 +506,7 @@ const allMovies = [
         heroinName: "Keerthy Suresh",
         releaseYear: 2022,
         Genre: "Action, Drama",
-        trailer: './../src/assets/trailers/Sarkaru Vaari pata.mp4'
+        trailer: '../../../src/assets/trailers/Sarkaru Vaari pata.mp4'
     },
     {
         id: 43,
@@ -518,7 +518,7 @@ const allMovies = [
         heroinName: "Tamannaah Bhatia,Mehreen Pirzada",
         releaseYear: 2022,
         Genre: "Comedy",
-        trailer: './../src/assets/trailers/F3.mp4'
+        trailer: '../../../src/assets/trailers/F3.mp4'
     },
     {
         id: 44,
@@ -530,7 +530,7 @@ const allMovies = [
         heroinName: "Saiee Manjrekar",
         releaseYear: 2022,
         Genre: "Action, Biography, Drama",
-        trailer: './../src/assets/trailers/Major.mp4'
+        trailer: '../../../src/assets/trailers/Major.mp4'
     },
     {
         id: 45,
@@ -542,7 +542,7 @@ const allMovies = [
         heroinName: "Nazriya Nazim",
         releaseYear: 2022,
         Genre: "Comedy,Romance",
-        trailer: './../src/assets/trailers/Ante Sundaraniki.mp4'
+        trailer: '../../../src/assets/trailers/Ante Sundaraniki.mp4'
     },
     {
         id: 46,
@@ -554,7 +554,7 @@ const allMovies = [
         heroinName: "Samyuktha",
         releaseYear: 2022,
         Genre: " Action, Fantasy, Drama, History",
-        trailer: './../src/assets/trailers/Bimbisara.mp4'
+        trailer: '../../../src/assets/trailers/Bimbisara.mp4'
     },
     {
         id: 47,
@@ -566,7 +566,7 @@ const allMovies = [
         heroinName: "Mrunal Thakur,Rashmika Mandanna",
         releaseYear: 2022,
         Genre: "Drama, Romance",
-        trailer: './../src/assets/trailers/Sita Ramam.mp4'
+        trailer: '../../../src/assets/trailers/Sita Ramam.mp4'
     },
     {
         id: 48,
@@ -578,7 +578,7 @@ const allMovies = [
         heroinName: "Anupama Paramesvari",
         releaseYear: 2022,
         Genre: "Mystery, Adventure",
-        trailer: './../src/assets/trailers/Karthikeya 2.mp4'
+        trailer: '../../../src/assets/trailers/Karthikeya 2.mp4'
     }
 ]
 
