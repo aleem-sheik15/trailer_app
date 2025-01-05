@@ -1,5 +1,6 @@
 import video1 from './trailers/kalki.mp4'
 
+import video2 from './trailers/hanuman.mp4'
 
 
 
@@ -28,7 +29,7 @@ const allMovies = [
         heroinName: "Amritha Aiyer",
         releaseYear: 2024,
         Genre: "Action, Adventure, Fantasy",
-        trailer: './trailers/hanuman.mp4'
+        trailer: video2
     },
     {
         id: 3,
