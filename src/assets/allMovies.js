@@ -28,7 +28,7 @@ const allMovies = [
         heroinName: "Amritha Aiyer",
         releaseYear: 2024,
         Genre: "Action, Adventure, Fantasy",
-        trailer: '../../../src/assets/trailers/hanuman.mp4'
+        trailer: './trailers/hanuman.mp4'
     },
     {
         id: 3,
