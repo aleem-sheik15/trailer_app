@@ -105,7 +105,7 @@
 
 @media (max-width:600px) {
     .m_info>h2 {
-        font-size: 16px;
+        font-size: 20px;
     }
 
     .rows>label {
@@ -115,7 +115,8 @@
     .rows>p {
         font-size: 10px;
     }
-    .rows>p>i{
+
+    .rows>p>i {
         font-size: 8px;
     }
 
@@ -123,10 +124,17 @@
         gap: 18px;
         margin-top: 10px;
     }
-    .icons>ul>li{
+
+    .icons>ul>li {
         font-size: 14px;
     }
-    .icons>h4{
+
+    .icons>h4 {
         font-size: 12px;
+    }
+
+    .desc>h3 {
+        border-bottom: 1px solid #ccccc096;
+        font-size: 16px;
     }
 }
