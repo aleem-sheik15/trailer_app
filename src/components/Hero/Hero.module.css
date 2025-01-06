@@ -13,27 +13,26 @@
 
 @media (max-width:1080px) {
     .container {
-        height: calc(100vh - 250px);
+        height: calc(100vh - 230px);
     }
 }
 
 @media (max-width:800px) {
     .container {
-        height: calc(100vh - 500px);
+        height: calc(100vh - 300px);
     }
 }
 
 @media (max-width:600px) {
     .container {
-        margin-bottom: 10px;
+        border-radius: 0px;
+        margin-bottom: 0;
         height: calc(100vh - 400px);
     }
 }
 
 @media (max-width:400px) {
     .container {
-        height: calc(100vh - 500px);
-        border-radius: 0px;
-        margin-bottom: 0;
+        height: calc(100vh - 600px);
     }
 }
