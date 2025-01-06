@@ -18,11 +18,9 @@ const VideoPlayer = () => {
         if (!play) {
             setPlay(true)
             vidRef.current.play()
-            // vidRef.current.controls = true;
         } else {
             setPlay(false)
             vidRef.current.pause()
-            // vidRef.current.controls = false;
         }
     }
     const forward = () => {

@@ -105,7 +105,7 @@
 
 @media (max-width:600px) {
     .m_info>h2 {
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .rows>label {
@@ -114,6 +114,9 @@
 
     .rows>p {
         font-size: 10px;
+    }
+    .rows>p>i{
+        font-size: 8px;
     }
 
     .icons>ul {

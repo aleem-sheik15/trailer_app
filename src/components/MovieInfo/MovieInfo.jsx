@@ -13,7 +13,7 @@ const MovieInfo = ({ trailer }) => {
                     <div className={style.ua}>
                         U/A 13+
                     </div>
-                    <p>Duration {(Math.abs(duration) / 60).toFixed(2)}sec</p>
+                    {/* <p>Duration {(Math.abs(duration) / 60).toFixed(2)}sec</p> */}
                     <div className={style.hd}>
                         HD
                     </div>
