@@ -130,11 +130,15 @@
 }
 
 @media (max-width:400px) {
+    .itemDetails{
+        bottom: 10px;
+        left: 15px;
+    }
     .itemDetails>h1 {
         font-size: var(--font-md);
     }
 
     .itemDetails>h3 {
-        font-size: var(--font-xs);
+        font-size: 8px;
     }
 }
